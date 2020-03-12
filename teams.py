@@ -7,22 +7,24 @@ from numpy import *
 # A Leader is a person that will participate in Orientation.
 class Leader():
 
-    def __init__(self, n, r, a):
+    def __init__(self, n, r, a, e):
         '''
         Creates a leader object.
         :param n: str, the full name of the leader.
         :param r: bool, True if the leader is a returning leader.
         :param a: bool, True if the leader is a returning ALR.
+        :param e: str, the email adress of the leader
         '''
         self.__name = n
         self.__returning = r
         self.__alr = a
+        self.__email = e
         self.__score = self.calcScore()
-        self.__team = ''
 
     def calcScore(self):
         '''
-        Calculates the score of a leader. A leader starts with a score of 3, then 3 is added if they are a returning leader and 3 is added if they are a returning ALR.
+        Calculates the score of a leader. A leader starts with a score of 3, then 3 is added if they are a returning leader
+        and 3 is added if they are a returning ALR.
         :return: int, the score of the leader
         '''
         s = 3
@@ -67,6 +69,13 @@ class Leader():
         '''
         return self.__alr
 
+    def getEmail(self):
+        '''
+        Returns the email adress of the leader.
+        :return: str, the email adress of the leader.
+        '''
+        return self.__email
+
     def __str__(self):
         return self.__name
 
@@ -86,24 +95,22 @@ class Team():
     def addMember(self, Leader):
         '''
         Adds a leader to the team. This function also updates the total score of the team, updates the amount of members
-        in the team and sets the name of the leaders team to the appropriate name.
+        in the team.
         :param Leader: Leader Object, the leader to add to the team.
         '''
         self.__members.append(Leader)
         self.__totScore += Leader.getScore()
         self.__number += 1
-        Leader.setTeam(self.getTeamName())
 
     def rvMember(self, Leader):
         '''
         Removes a leader from the team. This function also updates the total score of the team, updates the amount of members
-        in the team and sets the name of the leaders team to the appropriate name.
+        in the team.
         :param Leader: Leader Object, the leader to remove from the team.
         '''
         self.__members.remove(Leader)
         self.__totScore -= Leader.getScore()
         self.__number -= 1
-        Leader.setTeam('')
 
     def clearTeam(self):
         '''
@@ -112,6 +119,21 @@ class Team():
         self.__members = []
         self.__totScore = 0
         self.__number = 0
+
+    def getEmailList(self):
+        '''
+        Returns the list of emails of all members of that team in the format email1; email2; email3; ...
+        :return: str, the list of emails.
+        '''
+        s = ''
+        i = 0
+        for l in self.getMembers():
+            if i==0:
+                s = l.getEmail()
+                i += 1
+            else:
+                s = s + '; ' +l.getEmail()
+        return s
 
     def getTeamName(self):
         '''
@@ -148,8 +170,14 @@ class Team():
 
     def __str__(self):
         s = self.__teamName + ': '
+        i = 0
         for m in self.__members:
-            s = s + m.getName() + ' '
+            if i == 0:
+                s = s + m.getName()
+                i += 1
+            else:
+                s = s + ', ' + m.getName()
+        s = s + '\n' + 'Email list: ' + self.getEmailList() + '\n'
         return s
 
 # The team controller manages all teams and all leaders and creates teams that are fair.
@@ -171,7 +199,7 @@ class TeamController():
         self.__nCoeff = n
         self.load()
         self.makeFair()
-        print(self)
+        self.Export()
 
     def load(self):
         '''
@@ -188,7 +216,7 @@ class TeamController():
         teams = tms.values
 
         for l in leaders:
-            self.__allLeaders.append(Leader(l[0], l[1] == 'y', l[2] == 'y'))
+            self.__allLeaders.append(Leader(l[0], l[1] == 'y', l[2] == 'y', l[3]))
 
         for t in teams:
             self.__allTeams.append(Team(t[0]))
@@ -228,6 +256,11 @@ class TeamController():
 
             if sDiff<=self.__sCoeff and nDiff<=self.__nCoeff:
                 self.__fair = True
+
+    def Export(self):
+        f = open('teams.txt','w+')
+        f.write(str(self))
+        f.close()
 
     def getAllTeams(self):
         '''

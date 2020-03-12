@@ -1,0 +1,6 @@
+team 1: Test1, Test6, Mikolas, Test2
+Email list: email2; email7; email1; email3
+
+team 2: David, Test4, Test3, Test5
+Email list: davrene11@gmail.com; email5; email4; email6
+
