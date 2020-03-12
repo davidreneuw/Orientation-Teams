@@ -42,4 +42,4 @@ exe = EXE(pyz,
           upx_exclude=[],
 	      icon= 'C:\\Users\\dav_r\\Documents\\Orientation-Teams\\logo.ico',
           runtime_tmpdir=None,
-          console=False )
+          console=True )
