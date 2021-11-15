@@ -1,52 +1,52 @@
-team 1 (c1): David, Blossom, Jessica, Laura, Neeha, Joscelyn, Natalie, Reginald, Kristen, Nathan, Millun, Mudiyanselage, Sam, Abida, Ana, Andrea, Viviane, Winnie, Sarah, Chloe
-TC: Blossom
-FuPos: Jessica, Laura
-Email list: d2rene@uwaterloo.ca; bcobiha@uwaterloo.ca; j296hu@uwaterloo.ca; ltarazon@uwaterloo.ca; nbaral@uwaterloo.ca; J37VANDE@uwaterloo.ca; n24chang@uwaterloo.ca; rsomera@uwaterloo.ca; kthcargill@uwaterloo.ca; n32wu@uwaterloo.ca; m32grewal@uwaterloo.ca; MSRAJAPA@uwaterloo.ca; sa2steve@uwaterloo.ca; a8haroon@uwaterloo.ca; am2fernandezgalliano@uwaterloo.ca; amumapalan@uwaterloo.ca; vtranvie@uwaterloo.ca; winnie.ry.ho@uwaterloo.ca; s5hardy@uwaterloo.ca; c59ng@uwaterloo.ca
-
-team 2 (c2): Shrey, Susy, Betty, Yashica, Sneha, Sophie, Anna, Karen, Andre, Jared, Jessy, Ruchika, Lilyana, Aseid, Abdul, Aditya, Janine, Samantha, Ariadne, Param
-TC: Betty
-FuPos: Yashica, Sneha
-Email list: sj2patel@uwaterloo.ca; sochoagarrido@uwaterloo.ca; bktwuman@uwaterloo.ca; ysheth@uwaterloo.ca; sm29pate@uwaterloo.ca; swborho@uwaterloo.ca; a34sandh@uwaterloo.ca; kmessak@uwaterloo.ca; afogal@uwaterloo.ca; j2beacom@uwaterloo.ca; jriad@uwaterloo.ca; r43kumar@uwaterloo.ca; lsurubar@uwaterloo.ca; a3yaseen@uwaterloo.ca; a75rahma@uwaterloo.ca; a4seshad@uwaterloo.ca; j7fletch@uwaterloo.ca; scachia@uwaterloo.ca; apiperak@uwaterloo.ca; p2arya@uwaterloo.ca
-
-team 3 (c3): Kimia, Nicholas, Maria, Eric, Rhea, Ijeoma, Christine, Katherine, Afrah, Olivia, Miranda, Zahra, Julia, Saihej, Mack, Ivneet, Vivian, Brett, Lauren, Deep
-TC: Maria
-FuPos: Eric, Rhea
-Email list: k3shaban@uwaterloo.ca; nwtseng@uwaterloo.ca; MCWICKS@uwaterloo.ca; ehleonar@uwaterloo.ca; r7bhardw@uwaterloo.ca; iihedimb@uwaterloo.ca; c73kim@uwaterloo.ca; ktschirh@uwaterloo.ca; a32ansar@uwaterloo.ca; omoluchi@uwaterloo.ca; mlockley@uwaterloo.ca; zs2hasan@uwaterloo.ca; JRSANGST@uwaterloo.ca; s73gill@uwaterloo.ca; mgowlett@uwaterloo.ca; ikgill@uwaterloo.ca; v2bang@uwaterloo.ca; b9wagner@uwaterloo.ca; lmfoster@uwaterloo.ca; dp2patel@uwaterloo.ca
-
-team 4 (c4): Jennifer, Monique, Meagan, Alyssa, Yashar, Ethan, Jerika, Edric, Jade, Shaelie, Rachel, Tanya, Erika, Julian, Kyla, Suji, Kristian, Sarah, Srinija, Noor
-TC: Meagan
-FuPos: Alyssa, Yashar
-Email list: j32ha@uwaterloo.ca; me2mery@uwaterloo.ca; m48taylo@uwaterloo.ca; aahuleat@uwaterloo.ca; yalizadehebadi@uwaterloo.ca; EMSOLOMO@uwaterloo.ca; jwpchuong@uwaterloo.ca; easudiho@uwaterloo.ca; jtdayman@uwaterloo.ca; smendes@uwaterloo.ca; r36thoma@uwaterloo.ca; tnararidh@uwaterloo.ca; ekurtz@uwaterloo.ca; jblander@uwaterloo.ca; kreinsoo@uwaterloo.ca; s4udayak@uwaterloo.ca; KDYOUNG@uwaterloo.ca; sholdenr@uwaterloo.ca; srinija.palaparty@uwaterloo.ca; nhasiba@uwaterloo.ca
-
-team 5 (c5): Maggie, Khaled, Ariel, Ashley, Grace, Fenny, Daniya, Bethany, Sami, Savera, Maria Paz, Maryanne, Andrea Carolina, Ruhiya, Genevieve, Qamar, Shireen, Emma, SooMin, James
+team 1 (c1): Vivienne, Julian, Khaled, Bader, Eric, Abdul, Kayley, Shaelie, Sanghy, Julia, Prarthana, Oscar, Maria Paz, Aditya, Allison, Lyana, Catherine, Ethan, Alexa, Andrea
 TC: Khaled
-FuPos: Ariel, Ashley
-Email list: mmqhu@uwaterloo.ca; kyayad@uwaterloo.ca; atastasa@uwaterloo.ca; ac2freem@uwaterloo.ca; glaevens@uwaterloo.ca; fcpatel@uwaterloo.ca; DMOHSIN@uwaterloo.ca; bckiradz@uwaterloo.ca; smaerten@uwaterloo.ca; s2lodhy@uwaterloo.ca; mpbecerra@uwaterloo.ca; mputros@uwaterloo.ca; acvilcac@uwaterloo.ca; rabduraf@uwaterloo.ca; ghbelford@uwaterloo.ca; qmobayed@uwaterloo.ca; sscyclew@uwaterloo.ca; emljutla@uwaterloo.ca; s297park@uwaterloo.ca; j4staple@uwaterloo.ca
+FuPos: Bader, Eric
+Email list: vestern@uwaterloo.ca; JCSURDI@uwaterloo.ca; kyayad@uwaterloo.ca; bisteita@uwaterloo.ca; ehleonar@uwaterloo.ca; a75rahma@uwaterloo.ca; klammel@uwaterloo.ca; smendes@uwaterloo.ca; s3ramani@uwaterloo.ca; JRSANGST@uwaterloo.ca; psembaku@uwaterloo.ca; y27gan@uwaterloo.ca; mpbecerra@uwaterloo.ca; a4seshad@uwaterloo.ca; akereliu@uwaterloo.ca; lrrahim@uwaterloo.ca; cdzhong@uwaterloo.ca; EMSOLOMO@uwaterloo.ca; alisogur@uwaterloo.ca; amumapalan@uwaterloo.ca
 
-team 6 (c6): Joleen, Ethan, William, Christian, Yasaman, Catherine, Abigail, Vishwa, Krystal, Michael, Danielle, Spencer, Araya, Prarthana, Sarah, Manaswi, Divya, Reis, Stephen Tan
-TC: Ethan
-FuPos: William, Christian
-Email list: joleen.andres@uwaterloo.ca; esyswils@uwaterloo.ca; wyounghong@uwaterloo.ca; cvsingh@uwaterloo.ca; yeskandari@uwaterloo.ca; cghatab@uwaterloo.ca; anpujols@uwaterloo.ca; v85patel@uwaterloo.ca; x345yang@uwaterloo.ca; moheckma@uwaterloo.ca; dzonis@uwaterloo.ca; skramer@uwaterloo.ca; ejlaraya@uwaterloo.ca; psembaku@uwaterloo.ca; skyan@uwaterloo.ca; m65sharma@uwaterloo.ca; d9rana@uwaterloo.ca; raimrie@uwaterloo.ca; s62tan@uwaterloo.ca
-
-team 7 (c7): Julian, Mohammed, Emilie, Leslie, Katarina, Anique, Lilia, Vitasta, Taylor, Ashley, Laila, Janie, Christopher, Hayya, Maya, Alyssa, Sarah, Benjamin, Oscar
+team 2 (c2): Hayley, Mohammed, Yashar, Jessica, Michael, Nathan, Arun, Ahmed, Aseid, Janine, Verina, Deep, Olivia, Spencer, Anithra, Brett, Mariam, Viviane, Valentina
 TC: Mohammed
-FuPos: Emilie, Leslie
-Email list: JCSURDI@uwaterloo.ca; mohammed.ayman.abdulrahman@uwaterloo.ca; elouis@uwaterloo.ca; lawilkin@uwaterloo.ca; kvpoganatz@uwaterloo.ca; a447sing@uwaterloo.ca; lsafiull@uwaterloo.ca; v2dhar@uwaterloo.ca; tlvirgin@uwaterloo.ca; aruetz@uwaterloo.ca; lderizk@uwaterloo.ca; jdc2ong@uwaterloo.ca; CGBRUKNE@uwaterloo.ca; hhalime@uwaterloo.ca; mdayoub@uwaterloo.ca; afamazan@uwaterloo.ca; sarourke@uwaterloo.ca; bemmanue@uwaterloo.ca; y27gan@uwaterloo.ca
+FuPos: Yashar, Jessica
+Email list: hltcanning@uwaterloo.ca; mohammed.ayman.abdulrahman@uwaterloo.ca; yalizadehebadi@uwaterloo.ca; j296hu@uwaterloo.ca; moheckma@uwaterloo.ca; n32wu@uwaterloo.ca; absampath@uwaterloo.ca; a27imran@uwaterloo.ca; a3yaseen@uwaterloo.ca; j7fletch@uwaterloo.ca; vsmsalib@uwaterloo.ca; dp2patel@uwaterloo.ca; omoluchi@uwaterloo.ca; skramer@uwaterloo.ca; arselvakumar@uwaterloo.ca; b9wagner@uwaterloo.ca; msoryal@uwaterloo.ca; vtranvie@uwaterloo.ca; vgarzonl@uwaterloo.ca
 
-team 8 (c8): Hayley, Daniel, Bader, Joanne, Gurleen, Verina, Ladees, Gwyneth Nicole, Olivia, Valentina, Clara, Vanessa, Tammy, Lyana, Julia, Victoria, Jimin, Alexa, Samantha, Kira
-TC: Daniel
-FuPos: Bader, Joanne
-Email list: hltcanning@uwaterloo.ca; dddudziak@uwaterloo.ca; bisteita@uwaterloo.ca; j234jian@uwaterloo.ca; gkbhaura@uwaterloo.ca; vsmsalib@uwaterloo.ca; laalhafi@uwaterloo.ca; gngonzal@uwaterloo.ca; oszczepa@uwaterloo.ca; vgarzonl@uwaterloo.ca; ctadrous@uwaterloo.ca; vrtang@uwaterloo.ca; t22duong@uwaterloo.ca; lrrahim@uwaterloo.ca; jdanieli@uwaterloo.ca; v49lee@uwaterloo.ca; j765lee@uwaterloo.ca; alisogur@uwaterloo.ca; samantha.andrea.lange@uwaterloo.ca; kschneid@uwaterloo.ca
+team 3 (c3): Monique, Ethan, Joanne, Sneha, Qamar, Jessica, Saira, Vivian, Harleen, Mariam, Kristian, Ashley, Param, Nura, Sophia, Hayya, Saihej, Sophie, Araya, Jerika
+TC: Ethan
+FuPos: Joanne, Sneha
+Email list: me2mery@uwaterloo.ca; esyswils@uwaterloo.ca; j234jian@uwaterloo.ca; sm29pate@uwaterloo.ca; qmobayed@uwaterloo.ca; jhoxha@uwaterloo.ca; s2babool@uwaterloo.ca; v2bang@uwaterloo.ca; h38gill@uwaterloo.ca; melsoukk@uwaterloo.ca; KDYOUNG@uwaterloo.ca; aruetz@uwaterloo.ca; p2arya@uwaterloo.ca; nsalooje@uwaterloo.ca; s57tan@uwaterloo.ca; hhalime@uwaterloo.ca; s73gill@uwaterloo.ca; swborho@uwaterloo.ca; ejlaraya@uwaterloo.ca; jwpchuong@uwaterloo.ca
 
-team 9 (c9): Evan, Sara, Philip, Abdulahi, Jonathan, Julie, Maria, Nura, Mariam, Jessica, Elizabeth, Duaa, Anithra, Veronica, Sophia, Ahmed, Tyler, Paul Chen, Erin
-TC: Sara
-FuPos: Philip, Abdulahi
-Email list: ecchang@uwaterloo.ca; s2saadatikhanshir@uwaterloo.ca; P5WRIGHT@uwaterloo.ca; a293mohamed@uwaterloo.ca; jyfu@uwaterloo.ca; j38dang@uwaterloo.ca; m2scarfo@uwaterloo.ca; nsalooje@uwaterloo.ca; melsoukk@uwaterloo.ca; jhoxha@uwaterloo.ca; emtmcgil@uwaterloo.ca; d3osman@uwaterloo.ca; arselvakumar@uwaterloo.ca; vsobczak@uwaterloo.ca; s57tan@uwaterloo.ca; a27imran@uwaterloo.ca; t4jing@uwaterloo.ca; p226chen@uwaterloo.ca; emelek@uwaterloo.ca
-
-team 10 (c10): Vivienne, Shriya, Dipannita, Julia, Rend, Arun, Harleen, Martina, Agam, Madhav, Catherine, Kayley, Allison, Mariam, Sanghy, Morgan, Malak, Haidar, Jenny, Saira
+team 4 (c4): Maggie, Shriya, Philip, Abdulahi, Vanessa, Haidar, Stephen Tan, Kristen, Genevieve, Andrea Carolina, Ijeoma, Laila, Taylor, Erin, Veronica, Maya, Tyler, Lilyana, Ruchika
 TC: Shriya
-FuPos: Dipannita, Julia
-Email list: vestern@uwaterloo.ca; shriya.parikh@uwaterloo.ca; DSAHA@uwaterloo.ca; jjturnbull@uwaterloo.ca; ralbayati@uwaterloo.ca; absampath@uwaterloo.ca; h38gill@uwaterloo.ca; m4gobran@uwaterloo.ca; ak2bhullar@uwaterloo.ca; m84sharm@uwaterloo.ca; cdzhong@uwaterloo.ca; klammel@uwaterloo.ca; akereliu@uwaterloo.ca; msoryal@uwaterloo.ca; s3ramani@uwaterloo.ca; mjcordell@uwaterloo.ca; malrubai@uwaterloo.ca; hmashlab@uwaterloo.ca; J49HUYNH@uwaterloo.ca; s2babool@uwaterloo.ca
+FuPos: Philip, Abdulahi
+Email list: mmqhu@uwaterloo.ca; shriya.parikh@uwaterloo.ca; P5WRIGHT@uwaterloo.ca; a293mohamed@uwaterloo.ca; vrtang@uwaterloo.ca; hmashlab@uwaterloo.ca; s62tan@uwaterloo.ca; kthcargill@uwaterloo.ca; ghbelford@uwaterloo.ca; acvilcac@uwaterloo.ca; iihedimb@uwaterloo.ca; lderizk@uwaterloo.ca; tlvirgin@uwaterloo.ca; emelek@uwaterloo.ca; vsobczak@uwaterloo.ca; mdayoub@uwaterloo.ca; t4jing@uwaterloo.ca; lsurubar@uwaterloo.ca; r43kumar@uwaterloo.ca
+
+team 5 (c5): Kimia, Daniel, Alyssa, William, Samantha, SooMin, Sarah, Katherine, Ariadne, Natalie, Rend, Gwyneth Nicole, Agam, Gurleen, Olivia, Kyla, Jimin, Maria, Sami
+TC: Daniel
+FuPos: Alyssa, William
+Email list: k3shaban@uwaterloo.ca; dddudziak@uwaterloo.ca; aahuleat@uwaterloo.ca; wyounghong@uwaterloo.ca; scachia@uwaterloo.ca; s297park@uwaterloo.ca; sholdenr@uwaterloo.ca; ktschirh@uwaterloo.ca; apiperak@uwaterloo.ca; n24chang@uwaterloo.ca; ralbayati@uwaterloo.ca; gngonzal@uwaterloo.ca; ak2bhullar@uwaterloo.ca; gkbhaura@uwaterloo.ca; oszczepa@uwaterloo.ca; kreinsoo@uwaterloo.ca; j765lee@uwaterloo.ca; m2scarfo@uwaterloo.ca; smaerten@uwaterloo.ca
+
+team 6 (c6): Jennifer, Meagan, Christian, Yashica, Lilia, Duaa, Ivneet, Madhav, Ana, Kira, Benjamin, Grace, Krystal, Anique, Samantha, Abida, Afrah, Jessy, Rachel, Janie
+TC: Meagan
+FuPos: Christian, Yashica
+Email list: j32ha@uwaterloo.ca; m48taylo@uwaterloo.ca; cvsingh@uwaterloo.ca; ysheth@uwaterloo.ca; lsafiull@uwaterloo.ca; d3osman@uwaterloo.ca; ikgill@uwaterloo.ca; m84sharm@uwaterloo.ca; am2fernandezgalliano@uwaterloo.ca; kschneid@uwaterloo.ca; bemmanue@uwaterloo.ca; glaevens@uwaterloo.ca; x345yang@uwaterloo.ca; a447sing@uwaterloo.ca; samantha.andrea.lange@uwaterloo.ca; a8haroon@uwaterloo.ca; a32ansar@uwaterloo.ca; jriad@uwaterloo.ca; r36thoma@uwaterloo.ca; jdc2ong@uwaterloo.ca
+
+team 7 (c7): Nicholas, Susy, Blossom, Julia, Leslie, Anna, Suji, Shireen, Julie, Sarah, Sarah, Mudiyanselage, Christopher, Reginald, Miranda, Katarina, Christine, Karen, Elizabeth, Andre, Fenny
+TC: Blossom
+FuPos: Julia, Leslie
+Email list: nwtseng@uwaterloo.ca; sochoagarrido@uwaterloo.ca; bcobiha@uwaterloo.ca; jjturnbull@uwaterloo.ca; lawilkin@uwaterloo.ca; a34sandh@uwaterloo.ca; s4udayak@uwaterloo.ca; sscyclew@uwaterloo.ca; j38dang@uwaterloo.ca; skyan@uwaterloo.ca; sarourke@uwaterloo.ca; MSRAJAPA@uwaterloo.ca; CGBRUKNE@uwaterloo.ca; rsomera@uwaterloo.ca; mlockley@uwaterloo.ca; kvpoganatz@uwaterloo.ca; c73kim@uwaterloo.ca; kmessak@uwaterloo.ca; emtmcgil@uwaterloo.ca; afogal@uwaterloo.ca; fcpatel@uwaterloo.ca
+
+team 8 (c8): David, Maria, Emilie, Laura, Vitasta, Lauren, Sam, Chloe, Daniya, Erika, James, Jared, Savera, Vishwa, Sarah, Manaswi, Morgan, Joscelyn, Neeha
+TC: Maria
+FuPos: Emilie, Laura
+Email list: d2rene@uwaterloo.ca; MCWICKS@uwaterloo.ca; elouis@uwaterloo.ca; ltarazon@uwaterloo.ca; v2dhar@uwaterloo.ca; lmfoster@uwaterloo.ca; sa2steve@uwaterloo.ca; c59ng@uwaterloo.ca; DMOHSIN@uwaterloo.ca; ekurtz@uwaterloo.ca; j4staple@uwaterloo.ca; j2beacom@uwaterloo.ca; s2lodhy@uwaterloo.ca; v85patel@uwaterloo.ca; s5hardy@uwaterloo.ca; m65sharma@uwaterloo.ca; mjcordell@uwaterloo.ca; J37VANDE@uwaterloo.ca; nbaral@uwaterloo.ca
+
+team 9 (c9): Shrey, Sara, Rhea, Ariel, Malak, Victoria, Julia, Ruhiya, Reis, Tanya, Jonathan, Ladees, Julian, Emma, Clara, Edric, Yasaman, Paul Chen, Danielle, Maryanne
+TC: Sara
+FuPos: Rhea, Ariel
+Email list: sj2patel@uwaterloo.ca; s2saadatikhanshir@uwaterloo.ca; r7bhardw@uwaterloo.ca; atastasa@uwaterloo.ca; malrubai@uwaterloo.ca; v49lee@uwaterloo.ca; jdanieli@uwaterloo.ca; rabduraf@uwaterloo.ca; raimrie@uwaterloo.ca; tnararidh@uwaterloo.ca; jyfu@uwaterloo.ca; laalhafi@uwaterloo.ca; jblander@uwaterloo.ca; emljutla@uwaterloo.ca; ctadrous@uwaterloo.ca; easudiho@uwaterloo.ca; yeskandari@uwaterloo.ca; p226chen@uwaterloo.ca; dzonis@uwaterloo.ca; mputros@uwaterloo.ca
+
+team 10 (c10): Joleen, Evan, Betty, Dipannita, Ashley, Bethany, Winnie, Jade, Martina, Jenny, Tammy, Srinija, Alyssa, Abigail, Millun, Noor, Zahra, Mack, Divya, Catherine
+TC: Betty
+FuPos: Dipannita, Ashley
+Email list: joleen.andres@uwaterloo.ca; ecchang@uwaterloo.ca; bktwuman@uwaterloo.ca; DSAHA@uwaterloo.ca; ac2freem@uwaterloo.ca; bckiradz@uwaterloo.ca; winnie.ry.ho@uwaterloo.ca; jtdayman@uwaterloo.ca; m4gobran@uwaterloo.ca; J49HUYNH@uwaterloo.ca; t22duong@uwaterloo.ca; srinija.palaparty@uwaterloo.ca; afamazan@uwaterloo.ca; anpujols@uwaterloo.ca; m32grewal@uwaterloo.ca; nhasiba@uwaterloo.ca; zs2hasan@uwaterloo.ca; mgowlett@uwaterloo.ca; d9rana@uwaterloo.ca; cghatab@uwaterloo.ca
 
 
 TCs: Blossom, Maria, Meagan, Betty, Shriya, Daniel, Sara, Khaled, Mohammed, Ethan

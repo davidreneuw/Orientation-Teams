@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "teams.py", line 1002, in <module>
+  File "teams.py", line 802, in __init__
+  File "C:\Python310\lib\tkinter\__init__.py", line 2109, in wm_iconbitmap
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "logo.ico" not defined
