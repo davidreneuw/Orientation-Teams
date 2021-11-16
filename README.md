@@ -36,6 +36,7 @@ Finally, the user can click "Export" to select a folder to export the result to.
 
 Here is a video tutorial on how to use this tool:
 
+[![Alt text](https://img.youtube.com/vi/FMihaaJrmJc/0.jpg)](https://www.youtube.com/watch?v=FMihaaJrmJc)
 
 # Development
 
