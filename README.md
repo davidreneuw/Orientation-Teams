@@ -12,6 +12,7 @@ If you download the ZIP, you will need to unzip it.
 Once this is done, you can run this application by going in the "dist" folder and running the executable named "**teams.exe**".
 
 Here is a view of the user interface that will pop up:
+
 ![User interface](./assets/ui.png)
 
 The first step is to import the excel file containing the list of leaders. You can do so by pressing the browse button in the top right, then selecting the location of the file. The excel file **must have two sheets, Leaders and Teams**. The Leaders sheet must look as such:
